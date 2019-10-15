@@ -1,4 +1,4 @@
-# CouponSystemV1  Jeresy + Angular
+#                                             CouponSystemV1  Jeresy
 # Client side: Angular
 This is a client side.
 You can run it as a regular Angular project.
