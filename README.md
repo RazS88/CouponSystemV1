@@ -3,7 +3,7 @@
 This is a client side.
 You can run it as a regular Angular project.
 
-#Server side: Java, Jersey,CorsFilter, Maven, MySql, jdbc driver, SQL, Apache Tomcat.
+# Server side: Java, Jersey,CorsFilter, Maven, MySql, jdbc driver, SQL, Apache Tomcat.
 
 To run this project you need initialy define your data base connection,
 you can do it by setting: username , password , url.
