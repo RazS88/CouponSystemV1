@@ -20,11 +20,11 @@ public class ConnctionPool {
 	//Static filed who make this class a singleton 
 	private static ConnctionPool instance;
 	// Url + User name + Pass make connection to the MYSQL
-	private static String DB_URL = "jdbc:mysql://localhost:3306/razi?serverTimezone=UTC" ;
+	private static String DB_URL = "jdbc:mysql://localhost:3306" ;
 	
-	private static String USER_NAME = "root" ;
+	private static String USER_NAME = "" ;
 	
-	private static String PASS = "Razi!@5624" ;
+	private static String PASS = "" ;
 	
 	private static final int MAX_Connction = 10;
 	
